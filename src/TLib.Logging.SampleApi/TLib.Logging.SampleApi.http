@@ -1,0 +1,6 @@
+@TLib.Logging.SampleApi_HostAddress = http://localhost:5293
+
+GET {{TLib.Logging.SampleApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
