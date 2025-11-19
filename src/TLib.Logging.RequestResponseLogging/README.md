@@ -127,12 +127,3 @@ Body: {"status":"ok","token":"***MASKED***"}
 ## License
 
 MIT License – free to use and modify.  
-
----
-
-## Optional Enhancements
-
-- Add database logging (SQL, MongoDB)  
-- Add Kafka/RabbitMQ logging sinks  
-- Integrate with OpenTelemetry or distributed tracing systems  
-- Filter logs by route or controller via attributes  
